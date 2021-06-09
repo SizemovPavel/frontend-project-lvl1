@@ -1,0 +1,25 @@
+
+name: myMakeLint
+
+on:
+  push:
+    branches:
+      - '**'
+    tags:
+      - '**'
+
+
+  workflow_dispatch:
+
+
+jobs:
+
+  runMakeLint:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: makeLint
+        run: make lint
+
