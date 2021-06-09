@@ -28,6 +28,7 @@ jobs:
           make install
       env:
           CI: true
+<<<<<<< HEAD
     - name: Run linter
       run: |
           make lint
@@ -40,3 +41,5 @@ jobs:
           debug: true
     
   
+=======
+>>>>>>> 355c5c5b36c86443ca7d431c0ceb29c3d6af82f1
