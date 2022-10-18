@@ -21,3 +21,8 @@ Brain-progression
 
 What number is missing in the progression?
 [![asciicast](https://asciinema.org/a/jRaok4qJ0ZTLePtzjyG6GFqHN.svg)](https://asciinema.org/a/jRaok4qJ0ZTLePtzjyG6GFqHN)
+
+Brain-progression
+
+Answer "yes" if given number is prime. Otherwise answer "no".
+[![asciicast](https://asciinema.org/a/4sqnpwWmCP9jfonSuphCjBBWt.svg)](https://asciinema.org/a/4sqnpwWmCP9jfonSuphCjBBWt)
