@@ -4,8 +4,8 @@ import getRandomInt from '../utilities.js';
 const rules = () => 'Find the greatest common divisor of given numbers.';
 
 const getQuestionAndAnswer = () => {
-  const numberOne = getRandomInt(0, 15);
-  const numberTwo = getRandomInt(0, 30);
+  const numberOne = getRandomInt(1, 15);
+  const numberTwo = getRandomInt(1, 30);
   const gcd = (x, y) => {
     if (x !== 0) {
       return gcd(y % x, x);

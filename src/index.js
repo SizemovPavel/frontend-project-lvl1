@@ -10,7 +10,7 @@ const runGame = (rules, getQuestionAndAnswer) => {
   for (step; step <= steps; step += 1) {
     const [question, correctAnswer] = getQuestionAndAnswer();
 
-    const answerUser = readlineSync.question(`Question: ${question} \n Your answer: `);
+    const answerUser = readlineSync.question(`Question: ${question}\nYour answer: `);
 
     if (`${correctAnswer}` === answerUser) {
       console.log('Correct!');
