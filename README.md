@@ -2,6 +2,21 @@
 [![Actions Status](https://github.com/SizemovPavel/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/SizemovPavel/frontend-project-lvl1/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/bae658be9ba5ff633d71/maintainability)](https://codeclimate.com/github/SizemovPavel/frontend-project-lvl1/maintainability)
 
+## Brain-games is a series of 5 console mini-games that can entertain you and be a warm-up for your brain
+
+### Requirements
+
+- Mac / Linux
+- Node.js version 16 or later
+
+### Install
+
+```
+$ git clone https://github.com/SizemovPavel/frontend-project-lvl1.git
+$ cd frontend-project-lvl1
+$ npm link
+```
+
 Brain-even
 
 Answer "yes" if the number is even, otherwise answer "no".
