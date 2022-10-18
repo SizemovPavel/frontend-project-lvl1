@@ -6,3 +6,8 @@ Brain-even
 
 Answer "yes" if the number is even, otherwise answer "no".
 [![asciicast](https://asciinema.org/a/8ojYlFglpu4vTUfzoPtOjn5n4.svg)](https://asciinema.org/a/8ojYlFglpu4vTUfzoPtOjn5n4)
+
+Brain-calc
+
+What is the result of the expression?
+[![asciicast](https://asciinema.org/a/XsDB9Cy7wl0iI2TrbkfQZi1qh.svg)](https://asciinema.org/a/XsDB9Cy7wl0iI2TrbkfQZi1qh)
