@@ -16,3 +16,8 @@ Brain-gcd
 
 Find the greatest common divisor of given numbers.
 [![asciicast](https://asciinema.org/a/bXF7j0lshh5dYfKUTFmb6gMIp.svg)](https://asciinema.org/a/bXF7j0lshh5dYfKUTFmb6gMIp)
+
+Brain-progression
+
+What number is missing in the progression?
+[![asciicast](https://asciinema.org/a/jRaok4qJ0ZTLePtzjyG6GFqHN.svg)](https://asciinema.org/a/jRaok4qJ0ZTLePtzjyG6GFqHN)
