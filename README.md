@@ -14,7 +14,8 @@
 ```
 $ git clone https://github.com/SizemovPavel/frontend-project-lvl1.git
 $ cd frontend-project-lvl1
-$ npm link
+$ sudo npm link
+$ npm i
 ```
 
 Brain-even
